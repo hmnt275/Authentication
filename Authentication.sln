@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Authentication", "Authentication\Authentication.csproj", "{C6D5DCF0-21B6-43D2-AA94-6DB84F7982CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RepostorryDAL", "RepostorryDAL\RepostorryDAL.csproj", "{6E65CEDE-EDC9-4718-AD75-41D1E18E7B30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6D5DCF0-21B6-43D2-AA94-6DB84F7982CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6D5DCF0-21B6-43D2-AA94-6DB84F7982CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6D5DCF0-21B6-43D2-AA94-6DB84F7982CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6D5DCF0-21B6-43D2-AA94-6DB84F7982CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E65CEDE-EDC9-4718-AD75-41D1E18E7B30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E65CEDE-EDC9-4718-AD75-41D1E18E7B30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E65CEDE-EDC9-4718-AD75-41D1E18E7B30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E65CEDE-EDC9-4718-AD75-41D1E18E7B30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {491E8A5E-B2A8-46AD-BE8E-E80FEA5C668F}
+	EndGlobalSection
+EndGlobal
